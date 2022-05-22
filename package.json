@@ -1,5 +1,6 @@
 {
-  "name": "hackathon-website-template",
+  "homepage": "https://github.com/talzcloning/website-template/",
+  "name": "website-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
